@@ -1,0 +1,117 @@
+.container-fluid img{
+	width: 64px;
+	height: 64px;
+
+}
+a.navbar-brand {
+	color: #dbd3d9;
+	font-family: verdana;
+
+}
+a.navbar-brand:hover {
+	color: #730858;
+}
+.tagline {
+	font-size: smaller;
+}
+.home{
+	color: #dbd3d9;
+}
+.home:hover {
+	color: #730858;
+}
+a.nav-link {
+	color: #dbd3d9;
+}
+a.nav-link:hover {
+	color: #730858;
+}
+ul.dropdown-menu {
+	background-color: black;
+}
+a.dropdown-item {
+	color: #dbd3d9;
+}
+a.dropdown-item:hover {
+	color: #730858;
+}
+#testimoni {
+    text-align: center;
+    border-bottom: 2px solid;
+    margin-top: 5px;
+}
+.judul {
+    color: #05095c;
+    border-bottom: 1px solid;
+}
+.judul2 {
+    color: #5c050a;
+}
+
+.avatar{
+    width: 100px;
+}
+
+.pernyataan {
+    font-size: 1rem;
+    margin-top: 20px;
+}
+
+.nama {
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 20px;
+    color: darkslateblue;
+}
+.content a{
+    text-decoration: none;
+}
+#produk {
+    text-align: center;
+    padding-top: 30px;
+}
+.bibit {
+    color: black;
+    text-shadow: 1px 0px 36px rgba(26,24,24,1);
+}
+.isian {
+    color: #2d302d;
+    font-weight: bold;
+    text-shadow: -4px 12px 11px rgba(0,0,0,0.73);
+    border-bottom: 2px double;
+}
+.row1 {
+    color: #2d302d;
+    font-weight: bold;
+    text-align: left;
+}
+#kartu {
+    width: 12rem;
+    margin: 10px;
+}
+#kartu:hover {
+    transform: translateY(-8px);
+}
+.card-img-top {
+    box-shadow: -2px 4px 78px 16px rgba(0,0,0,0.75);
+-webkit-box-shadow: -2px 4px 78px 16px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 78px 16px rgba(0,0,0,0.75);
+}
+.card-title {
+    font-weight: bold;
+    color: #1a4a21;
+}
+.card-text {
+    font-weight: bolder;
+    color: #45140e;
+}
+.card-price {
+    font-weight: bold;
+    color: #f5210a;
+}
+@media (max-width: 576px) {
+    a.navbar-brand{
+        font-size: 0.9rem;
+    }
+
+}
